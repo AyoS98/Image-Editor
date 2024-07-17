@@ -1,4 +1,4 @@
-from PIL import Image, ImageEnhance, ImageFilter
+from PIL import Image, ImageEnhance, ImageFilter #Choose imports from the Python Imaging Library
 import os
 
 path = './imgs'
